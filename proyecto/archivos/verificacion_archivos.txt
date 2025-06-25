@@ -1,0 +1,25 @@
+===== VERIFICACIÓN DE ARCHIVOS - RODRIGUEZ =====
+/mnt/almacenamiento_rodriguez
+/mnt/almacenamiento_rodriguez/respaldos
+/mnt/almacenamiento_rodriguez/proyectos
+/mnt/almacenamiento_rodriguez/proyectos/activos
+/mnt/almacenamiento_rodriguez/proyectos/archivados
+/mnt/almacenamiento_rodriguez/temporal
+/mnt/almacenamiento_rodriguez/lost+found
+Archivos en caada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:43 /mnt/almacenamiento_rodriguez/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:43 /mnt/almacenamiento_rodriguez/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:42 /mnt/almacenamiento_rodriguez/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:42 /mnt/almacenamiento_rodriguez/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:42 /mnt/almacenamiento_rodriguez/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:42 /mnt/almacenamiento_rodriguez/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:42 /mnt/almacenamiento_rodriguez/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 25 16:40 /mnt/almacenamiento_rodriguez/temporal/documento_03.txt
+
