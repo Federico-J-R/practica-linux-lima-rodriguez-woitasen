@@ -82,7 +82,8 @@ oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
 
 
 
-[?25h[?7h===== NEOFETCH DE CHECHU =====
+[?25h[?7h
+
 ===== NEOFETCH DE CECILIA =====
 [?25l[?7l[0m[33m[1m                 ..
                .PLTJ.
