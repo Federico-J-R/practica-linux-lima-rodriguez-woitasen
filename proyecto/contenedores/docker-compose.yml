@@ -12,6 +12,7 @@ services:
       TZ: 'America/Argentina/Buenos Aires'
       WEBPASSWORD: 'practica123'
       FTLCONF_LOCAL_IPV4: '192.168.56.10'
+      WEB_INTERFACE_ALLOW_EXTERNAAL: 'true'
     volumes:
       - './configuracion-pihole:/etc/pihole'
       - './configuracion-dnsmasq.d:/etc/dnsmasq.d'
