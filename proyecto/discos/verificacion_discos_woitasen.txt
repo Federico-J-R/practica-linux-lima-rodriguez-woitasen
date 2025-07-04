@@ -1,0 +1,20 @@
+========== VERIFICACIÓN DE DISCOS -- WOITASEN ==========
+Espacio en disco:
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        738M     0  738M   0% /dev
+tmpfs           761M     0  761M   0% /dev/shm
+tmpfs           761M   17M  744M   3% /run
+tmpfs           761M     0  761M   0% /sys/fs/cgroup
+/dev/vda2        40G  2.7G   38G   7% /
+/dev/vda1       200M  9.0M  191M   5% /boot/efi
+tmpfs           153M     0  153M   0% /run/user/1001
+/dev/loop10     976M  2.6M  907M   1% /mnt/almacenamiento_woitasen
+Dispositivos de bloque:
+NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+vda    253:0    0   40G  0 disk 
+|-vda2 253:2    0 39.8G  0 part /
+`-vda1 253:1    0  200M  0 part /boot/efi
+loop10   7:10   0    1G  0 loop /mnt/almacenamiento_woitasen
+Configuración de montaje automático:
+/dev/loop10 /mnt/almacenamiento_woitasen ext4 defaults 0 0
+
