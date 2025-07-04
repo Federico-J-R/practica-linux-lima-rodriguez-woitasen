@@ -5,11 +5,3 @@ drwxrwxr-x. 2 vagrant vagrant  44 Jul  4 15:04 .
 drwx------. 6 vagrant vagrant 177 Jul  4 15:04 ..
 -rw-------. 1 vagrant vagrant   0 Jul  4 15:04 privado.txt
 -rw-r--r--. 1 vagrant vagrant   0 Jul  4 15:04 publico.txt
-Archivos en directorio colaborativo:
-Archivos en directorio colaborativo:
-total 4
-drwxrwx---.  2 root equipotrabajo    6 Jul  4 15:45 .
-drwxrwxrwt. 11 root root          4096 Jul  4 15:45 ..
-Informacion del grupo equipotrabajo:
-equipotrabajo:x:1010:vagrant
-
