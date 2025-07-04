@@ -1,0 +1,12 @@
+========== INFORMACIÓN DE USUARIOS Y GRUPOS -- WOITASEN ==========
+Usuario actual:
+vagrant
+Grupos del usuario:
+vagrant docker
+ID del usuario:
+uid=1001(vagrant) gid=1001(vagrant) groups=1001(vagrant),993(docker) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+Usuarios del sistema:
+estudiante1:x:1007:1007::/home/estudiante1:/bin/bash
+estudiante2:x:1008:1008::/home/estudiante2:/bin/bash
+estudiante3:x:1009:1009::/home/estudiante3:/bin/bash
+

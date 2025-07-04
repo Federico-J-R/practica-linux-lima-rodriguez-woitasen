@@ -1,0 +1,8 @@
+========== VERIFICACIÓN DE PERMISOS -- WOITASEN ==========
+Archivos en mi directorio personal:
+total 0
+drwxrwxr-x. 2 vagrant vagrant  44 Jul  4 15:04 .
+drwx------. 6 vagrant vagrant 177 Jul  4 15:04 ..
+-rw-------. 1 vagrant vagrant   0 Jul  4 15:04 privado.txt
+-rw-r--r--. 1 vagrant vagrant   0 Jul  4 15:04 publico.txt
+Archivos en directorio colaborativo:
