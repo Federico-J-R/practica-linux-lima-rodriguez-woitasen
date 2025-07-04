@@ -1,0 +1,45 @@
+========== VERIFICACIÓN DE PERMISOS -- WOITASEN ==========
+Archivos en mi directorio personal:
+total 0
+drwxrwxr-x. 2 vagrant vagrant  44 Jul  4 15:04 .
+drwx------. 6 vagrant vagrant 177 Jul  4 15:04 ..
+-rw-------. 1 vagrant vagrant   0 Jul  4 15:04 privado.txt
+-rw-r--r--. 1 vagrant vagrant   0 Jul  4 15:04 publico.txt
+
+Archivos en directorio colaborativo:
+total 4
+drwxrwx---.  2 root equipotrabajo    6 Jul  4 15:45 .
+drwxrwxrwt. 11 root root          4096 Jul  4 15:45 ..
+Información del grupo equipotrabajo:
+equipotrabajo:x:1010:vagrant
+
+===== VERIFICACION DE PERMISOS - LIMA =====
+Archivos en mi directorio personal:
+total 12
+drwxrwxr-x 3 vagrant vagrant 4096 Jun 14 21:56 .
+drwxr-x--- 7 vagrant vagrant 4096 Jun 14 23:58 ..
+drwxrwxr-x 2 vagrant vagrant 4096 Jun 14 23:42 permisos
+-rw------- 1 vagrant vagrant    0 Jun 14 20:34 privado.txt
+-rw-r--r-- 1 vagrant vagrant    0 Jun 14 20:38 publico.txt
+
+Archivos en directorio colaborativo:
+total 8
+drwxrwx---  2 root equipotrabajo 4096 Jul  2 04:34 .
+drwxrwxrwt 13 root root          4096 Jul  2 04:34 ..
+
+Informacion del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+
+===== VERIFICACION DE PERMISOS - RODRIGUEZ =====
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x 2 vagrant vagrant 4096 Jul  6 21:04 .
+drwxr-x--- 8 vagrant vagrant 4096 Jul  6 21:18 ..
+-rw------- 1 vagrant vagrant    0 Jul  6 21:04 privado.txt
+-rw-r--r-- 1 vagrant vagrant    0 Jul  6 21:04 publico.txt
+total 8
+drwxrwx---  2 root equipotrabajo 4096 Jul  3 01:58 .
+drwxrwxrwt 11 root root          4096 Jul  6 21:26 ..
+Informacion del grupo equipotrabajo:
+equipotrabajo:x:1009:estudiante1,estudiante2,estudiante3,vagrant
+
